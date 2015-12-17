@@ -1,7 +1,7 @@
 name: michelanglais
 favicon: null
-layout_spectrum: 0.6163120912387967
-typography_spectrum: 0.8377441144548357
+layout_spectrum: 0.89211
+typography_spectrum: 0.24467
 title: Confessions of a Post-illiterate
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.15898971329443157
+  brandStrength: 0.1875
   lightness: 0.2993110117968172
   saturation: 0.17420390201732516
   rhythmicContrast: 0.13655191869474947
